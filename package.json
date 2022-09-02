@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "bcrypt": "^5.0.1"
+    "bcrypt": "^5.0.1",
+    "password-validator": "^5.3.0"
   }
 }
